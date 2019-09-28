@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import './DogDetails.css';
+import './DogDetails.css';
 import { Link } from 'react-router-dom';
 
 class DogDetails extends Component {
